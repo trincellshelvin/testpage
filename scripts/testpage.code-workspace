@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../VScodeProjectsDesktop/WK7CapstoneforTrincellShelvin/Breakfast Brunch"
+		},
+		{
+			"path": "../../VScodeProjectsDesktop/WK7CapstoneforTrincellShelvin/Capstone Images"
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501,
+		"liveServer.settings.multiRootWorkspaceName": "testpage"
+	}
+}
